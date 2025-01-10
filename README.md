@@ -1,2 +1,2 @@
-# MiSide-Variants-Scroller
-Mod adding scrollbar to cloth variants in game's "Clothes" tab
+# MiSide-AssetLoader
+Mod for loading assets in real time for a Unity game "MiSide"
