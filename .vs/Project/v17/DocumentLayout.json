@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|solutionrelative:plugin\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|d:\\miside-variants-scroller\\plugin\\reflectionforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|solutionrelative:plugin\\reflectionforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|d:\\miside-variants-scroller\\plugin\\sizeslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|solutionrelative:plugin\\sizeslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|d:\\miside-variants-scroller\\plugin\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|solutionrelative:plugin\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|d:\\miside-variants-scroller\\plugin\\reflectionforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C502B2C-3DA6-4471-B9EA-86176173F8CC}|Plugin\\VariantsScroller.csproj|solutionrelative:plugin\\reflectionforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,14 +47,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SizeSliderController.cs",
+              "DocumentMoniker": "D:\\MiSide-Variants-Scroller\\Plugin\\SizeSliderController.cs",
+              "RelativeDocumentMoniker": "Plugin\\SizeSliderController.cs",
+              "ToolTip": "D:\\MiSide-Variants-Scroller\\Plugin\\SizeSliderController.cs",
+              "RelativeToolTip": "Plugin\\SizeSliderController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDMAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:32:05.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ReflectionForcer.cs",
               "DocumentMoniker": "D:\\MiSide-Variants-Scroller\\Plugin\\ReflectionForcer.cs",
               "RelativeDocumentMoniker": "Plugin\\ReflectionForcer.cs",
               "ToolTip": "D:\\MiSide-Variants-Scroller\\Plugin\\ReflectionForcer.cs",
               "RelativeToolTip": "Plugin\\ReflectionForcer.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T17:17:56.34Z"
+              "WhenOpened": "2024-12-24T17:17:56.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,7 +80,8 @@
               "RelativeToolTip": "Plugin\\PluginLoader.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:28:15.391Z"
+              "WhenOpened": "2024-12-12T20:28:15.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +91,7 @@
               "RelativeDocumentMoniker": "Plugin\\Plugin.cs",
               "ToolTip": "D:\\MiSide-Variants-Scroller\\Plugin\\Plugin.cs",
               "RelativeToolTip": "Plugin\\Plugin.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAowLMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAOgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-09-18T16:27:05.986Z",
               "EditorCaption": ""
