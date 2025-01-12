@@ -38,8 +38,8 @@
 
 #### **Plugin Installation**
 
-1. **Download** `VariantsScrollerRelease-1.0.0.zip` from the [releases page](https://github.com/Rist8/MiSide-Variants-Scroller/releases/tag/Release-1.0.0).  
-   > **Скачайте** `VariantsScrollerRelease-1.0.0.zip` с [страницы релизов](https://github.com/Rist8/MiSide-Variants-Scroller/releases/tag/Release-1.0.0).
+1. **Download** `VariantsScrollerRelease-1.0.1.zip` from the [releases page](https://github.com/Rist8/MiSide-Variants-Scroller/releases/tag/latest).  
+   > **Скачайте** `VariantsScrollerRelease-1.0.1.zip` с [страницы релизов](https://github.com/Rist8/MiSide-Variants-Scroller/releases/tag/latest).
 
 2. **Extract** the `VariantsScroller` folder into the `...\MiSide\BepInEx\plugins` directory of your game (so that `plugins\VariantsScroller` path exists).
    > **Распакуйте** папку `VariantsScroller` в каталог `...\MiSide\BepInEx\plugins` вашей игры (так чтобы появился путь `plugins\VariantsScroller`).
